@@ -17,7 +17,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl sm:text-2xl text-emerald-100 mb-6 font-medium">
-            Mathematics & Science Educator
+            Educator <br/> SSB Mentor <br/> Competitive Exam Specialist
           </p>
 
           <div className="flex items-center justify-center gap-2 mb-8">

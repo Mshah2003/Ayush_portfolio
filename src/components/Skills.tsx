@@ -41,7 +41,8 @@ export default function Skills() {
   ];
 
   const technicalSkills = [
-    'Mathematics (Algebra, Geometry, Trigonometry)',
+    'SSB guidance',
+    'Mathematics',
     'Physics',
     'Chemistry',
     'Biology',
